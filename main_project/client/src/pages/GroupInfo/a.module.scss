@@ -1,0 +1,61 @@
+@import '../../styles/variables.scss';
+
+.mentorinfo{
+    margin: 8em 4em;
+    display: flex;
+    justify-content: space-around;
+    .aboutinfo{
+        display: flex;
+        gap: 2em;
+        margin-top: 3em;
+        flex-direction: column;
+        .aboutmentor{
+            margin-top: auto;
+            margin-bottom: auto;
+            width: 100%;
+            display: flex;
+            gap: 2em;
+            color: var(--text-light-heading);
+            border-bottom: 1px solid var(--text-light);
+            div{
+                text-align: left;
+            }
+        }
+        .mentorSocialIcon{
+            display: flex;
+            align-items: left;
+            gap: 0.5em;
+            margin-top: 1.5em;
+            margin-bottom: 2em;
+        }
+    }
+    .groupDesc{
+        margin-top: 100px;
+        max-width: 700px;
+        background-color: var(--background-grey-fade);
+        border-radius: 22px;
+        .description{
+            padding: auto;
+            text-align: left;
+            h2, h4{
+                font-weight: var($boldTextWeight);
+                text-align: justify; 
+            }
+            p{
+                font-weight: 300;
+                text-align: justify; 
+            }
+        }
+        .joinSection{
+            display: flex;
+            justify-content: space-around;
+            background-color: var(--background-dark-fade);
+            color: var(--text-dark-fade);
+            font-weight: 500;
+            border-radius: 17px;
+            .joinSectionBtn{
+                color: var(--text-light);
+            }
+        }
+    }
+}

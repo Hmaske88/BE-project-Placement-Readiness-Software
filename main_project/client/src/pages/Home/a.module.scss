@@ -1,0 +1,102 @@
+.heroSection{
+    position: relative;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 8em 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    h1{
+        font-size: 5em;
+        margin: 0;
+        z-index: 1;
+    }
+    img{
+        position: absolute;
+    }
+}
+
+.chooseMentorSection{
+    height: auto;
+    padding:8em 8em;
+    width: 100%;
+    margin: auto;
+    .content{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        text-align: center;
+        .leftContent{
+            flex:5;
+            h1{
+                font-size: 3.5em;
+            }
+            p{
+                max-width: 30em;
+            }
+            .button{
+                width: fit-content;
+                margin:2em 0
+            }
+        }
+        .rightSideIllustration{
+            flex:7;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding-top: 4em;
+            .illustration{
+                height: 25em;
+            }
+        }
+    }
+}
+
+.skillsSection{
+    margin:4em 0;
+    background-repeat: no-repeat;
+    background-position: center;
+    .subHeading{
+        justify-content: center;
+        align-items: center;
+        justify-content: center;
+        padding: auto;
+        
+    }
+    h1{
+        font-size: 3.5em;
+    }
+    .content{
+        display: flex;
+        align-items: stretch;
+        justify-content: space-evenly;
+        margin-top:4em;
+        .leftContent{
+            .illustration{
+                height: 25em;
+            }
+        }
+        .rightContent{
+            display: flex;
+            flex-direction: column;
+            justify-content: space-evenly;
+            gap:2em;
+            max-width: 30em;
+            .points{
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                gap:2em;
+                text-align: left;
+            }
+        }
+    }
+}
+
+.roomSection{
+    margin:10em 0;
+    h1{
+        font-size: 3.5em;
+    }
+}

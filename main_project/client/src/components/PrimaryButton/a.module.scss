@@ -1,0 +1,11 @@
+.primaryButton{
+    background-color: var(--background-blue);
+    width: fit-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.4em;
+    padding: 0.4em 1.1em;
+    border-radius: 2em;
+    cursor: pointer;
+}

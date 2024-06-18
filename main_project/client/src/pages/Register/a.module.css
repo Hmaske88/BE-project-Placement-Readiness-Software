@@ -1,0 +1,96 @@
+.main {
+    background-color: rgb(12, 12, 12);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    max-width: 600px;
+    margin: auto;
+    margin-top: 5rem;
+}
+
+body {
+    background-color: black;
+}
+
+.btnCont {
+    height: fit-content;
+    width: fit-content;
+    border-radius: 50%;
+    margin: auto;
+    cursor: pointer;
+}
+
+.title {
+    color: var(--text-light-heading);
+    font-size: 55px;
+    width: 70%;
+    margin: auto;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.formFooter {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.forgotPass {
+    color: #27BE73;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: left;
+    width: 60%;
+    cursor: pointer;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+}
+
+.signInBtn {
+    /* background-color: var(--background-blue);
+    color: inherit;
+    border: none;
+    padding: 0;
+    font: inherit;
+    cursor: pointer;
+    outline: inherit;
+    padding: 0.5rem 2rem;
+    border-radius: 44px;
+    width: fit-content;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 28px;
+    text-align: center; */
+    margin-bottom: 3rem;
+}
+
+.register {
+    color: var(--text-blue);
+}
+
+.registerTransfer {
+    font-size: 20px;
+    line-height: 20px;
+    color: var(--text-light-heading);
+    font-weight: 400;
+    cursor: pointer;
+}
+
+.registerForm{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.upload {
+    display: inline-block;
+    padding: 10px 20px;
+    /* background-color: #007bff; Change to your desired button color */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: auto;
+    width: 80%;
+}

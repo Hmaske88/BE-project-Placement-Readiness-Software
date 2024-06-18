@@ -1,0 +1,743 @@
+{
+	"Object oriented Programming": [
+    	{
+        	"question": "What is inheritance in object-oriented programming?",
+        	"choices": [
+            	"A. It allows a class to inherit properties and behavior from another class.",
+            	"B. It is a way to restrict access to class members.",
+            	"C. It is a process of defining a new class.",
+            	"D. It provides multiple implementations for a method."
+        	],
+        	"answer": "A",
+        	"difficulty": 10,
+            "topic":"Object Oriented Programming"
+    	},
+    	{
+        	"question": "What is encapsulation in object-oriented programming?",
+        	"choices": [
+            	"A. A way to restrict access to data within an object.",
+            	"B. A technique to hide the complexity of a system.",
+            	"C. A method to combine data and functions into a single unit.",
+            	"D. A process of creating multiple instances of a class."
+        	],
+        	"answer": "A",
+        	"difficulty": 10,
+            "topic":"Object Oriented Programming"
+    	},
+    	{
+        	"question": "What is polymorphism in object-oriented programming?",
+        	"choices": [
+            	"A. The ability to create multiple instances of a class.",
+            	"B. A technique to combine data and functions into a single unit.",
+            	"C. The ability of a single function to perform different tasks based on the input.",
+            	"D. A process of defining a new class."
+        	],
+        	"answer": "C",
+        	"difficulty": 10,
+            "topic":"Object Oriented Programming"
+    	},
+    	{
+        	"question": "What is method overloading in object-oriented programming?",
+        	"choices": [
+            	"A. It allows a method to have multiple names.",
+            	"B. It allows a method to have multiple implementations.",
+            	"C. It allows a method to have multiple return types.",
+            	"D. It allows a method to have multiple signatures."
+        	],
+        	"answer": "D",
+        	"difficulty": 40,
+            "topic":"Object Oriented Programming"
+    	},
+    	{
+        	"question": "What is the difference between composition and inheritance in object-oriented programming?",
+        	"choices": [
+            	"A. Composition allows objects to contain other objects, while inheritance allows a class to inherit properties and behavior from another class.",
+            	"B. Composition is a process of defining a new class, while inheritance is a technique to combine data and functions into a single unit.",
+            	"C. Composition is a way to restrict access to data within an object, while inheritance is a process of creating multiple instances of a class.",
+            	"D. Composition is a technique to hide the complexity of a system, while inheritance is a mechanism to restrict access to class members."
+        	],
+        	"answer": "A",
+        	"difficulty": 40,
+            "topic":"Object Oriented Programming"
+    	},
+    	{
+        	"question": "What is an abstract class in object-oriented programming?",
+        	"choices": [
+            	"A. A class that cannot be instantiated and is used to define common characteristics of subclasses.",
+            	"B. A class that can only contain static methods.",
+            	"C. A class that can only contain final methods.",
+            	"D. A class that cannot contain any methods."
+        	],
+        	"answer": "A",
+        	"difficulty": 40,
+            "topic":"Object Oriented Programming"
+    	},
+    	{
+        	"question": "What is a static method in object-oriented programming?",
+        	"choices": [
+            	"A. A method that can be accessed without creating an instance of a class.",
+            	"B. A method that can only be accessed within the class it is defined.",
+            	"C. A method that cannot be overridden in subclasses.",
+            	"D. A method that is automatically called when an instance of a class is created."
+        	],
+        	"answer": "A",
+        	"difficulty": 40,
+            "topic":"Object Oriented Programming"
+    	},
+    	{
+        	"question": "What is the 'super' keyword in Java used for?",
+        	"choices": [
+            	"A. To call a method from the superclass.",
+            	"B. To call a method from the subclass.",
+            	"C. To define a superclass.",
+            	"D. To define a subclass."
+        	],
+        	"answer": "A",
+        	"difficulty": 60,
+            "topic":"Object Oriented Programming"
+    	},
+    	{
+        	"question": "What is the diamond problem in object-oriented programming?",
+        	"choices": [
+            	"A. A problem that occurs when two classes inherit from the same superclass and one class overrides a method that the other class relies on.",
+            	"B. A problem that occurs when a class has multiple methods with the same name but different parameters.",
+            	"C. A problem that occurs when a class is defined as both abstract and final.",
+            	"D. A problem that occurs when multiple classes inherit from the same superclass and that superclass has a method that is overridden in the subclasses."
+        	],
+        	"answer": "A",
+        	"difficulty": 60,
+            "topic":"Object Oriented Programming"
+    	},
+    	{
+        	"question": "What is the difference between early binding and late binding in object-oriented programming?",
+        	"choices": [
+            	"A. Early binding refers to the process of linking a method call to the method implementation at compile time, while late binding refers to linking at runtime.",
+            	"B. Early binding refers to linking at runtime, while late binding refers to linking at compile time.",
+            	"C. Early binding is used in dynamic languages, while late binding is used in static languages.",
+            	"D. Early binding is more flexible than late binding."
+        	],
+        	"answer": "A",
+        	"difficulty": 60,
+            "topic":"Object Oriented Programming"
+    	}
+	]
+}
+
+
+
+
+
+{,
+"topic":"Computer Networks"
+	"Computer Networks": [
+    	{
+        	"question": "What is a router in a computer network?",
+        	"choices": [
+            	"A. A device that connects multiple computers in a network and forwards data packets between them.",
+            	"B. A device that converts digital signals into analog signals for transmission over telephone lines.",
+            	"C. A device that connects a computer to a network.",
+            	"D. A device that stores and manages files for network users."
+        	],
+        	"answer": "A",
+        	"difficulty": 10,
+            "topic":"Computer Networks"
+    	},
+    	{
+        	"question": "What is the purpose of DNS (Domain Name System) in a computer network?",
+        	"choices": [
+            	"A. To convert domain names into IP addresses.",
+            	"B. To encrypt data transmitted over the network.",
+            	"C. To manage network traffic and prevent congestion.",
+            	"D. To provide network security against unauthorized access."
+        	],
+        	"answer": "A",
+        	"difficulty": 5,
+            "topic":"Computer Networks"
+    	},
+    	{
+        	"question": "What is the OSI model in computer networking?",
+        	"choices": [
+            	"A. It is a model that defines the structure of a computer network and the protocols used for communication.",
+            	"B. It is a model that defines the physical components of a computer network, such as cables and routers.",
+            	"C. It is a model that describes how data is transmitted over a network in seven layers.",
+            	"D. It is a model that specifies the software interfaces used for network communication."
+        	],
+        	"answer": "C",
+        	"difficulty": 15,
+            "topic":"Computer Networks"
+    	},
+    	{
+        	"question": "What is the purpose of a firewall in a computer network?",
+        	"choices": [
+            	"A. To connect multiple networks together and forward data packets between them.",
+            	"B. To prevent unauthorized access to or from a private network.",
+            	"C. To convert digital signals into analog signals for transmission over telephone lines.",
+            	"D. To connect a computer to a network."
+        	],
+        	"answer": "B",
+        	"difficulty": 30,
+            "topic":"Computer Networks"
+    	},
+    	{
+        	"question": "What is a subnet mask in a computer network?",
+        	"choices": [
+            	"A. A unique identifier assigned to a computer on a network.",
+            	"B. A protocol used to send emails over the Internet.",
+            	"C. A pattern of bits that determines which part of an IP address is the network address and which part is the host address.",
+            	"D. A device that connects multiple computers in a network."
+        	],
+        	"answer": "C",
+        	"difficulty": 45,
+            "topic":"Computer Networks"
+    	},
+    	{
+        	"question": "What is the purpose of NAT (Network Address Translation) in a computer network?",
+        	"choices": [
+            	"A. To convert domain names into IP addresses.",
+            	"B. To encrypt data transmitted over the network.",
+            	"C. To map private IP addresses to public IP addresses for routing over the Internet.",
+            	"D. To provide network security against unauthorized access."
+        	],
+        	"answer": "C",
+        	"difficulty": 55,
+            "topic":"Computer Networks"
+    	},
+    	{
+        	"question": "What is the difference between TCP (Transmission Control Protocol) and UDP (User Datagram Protocol) in a computer network?",
+        	"choices": [
+            	"A. TCP is connection-oriented and ensures reliable data delivery, while UDP is connectionless and does not guarantee reliable data delivery.",
+            	"B. TCP is faster than UDP for real-time applications.",
+            	"C. TCP is used for video streaming, while UDP is used for file transfer.",
+            	"D. UDP is more secure than TCP."
+        	],
+        	"answer": "A",
+        	"difficulty": 70,
+            "topic":"Computer Networks"
+    	},
+    	{
+        	"question": "What is a VLAN (Virtual Local Area Network) in a computer network?",
+        	"choices": [
+            	"A. A physical network that spans a large geographic area, such as a city or country.",
+            	"B. A group of devices on one or more LANs that are configured to communicate as if they are attached to the same wire, when in fact they are located on a number of different LAN segments.",
+            	"C. A network that uses satellite links to connect geographically distant locations.",
+            	"D. A network that connects devices within a single building or campus."
+        	],
+        	"answer": "B",
+        	"difficulty": 80,
+            "topic":"Computer Networks"
+    	},
+    	{
+        	"question": "What is the purpose of ARP (Address Resolution Protocol) in a computer network?",
+        	"choices": [
+            	"A. To convert domain names into IP addresses.",
+            	"B. To encrypt data transmitted over the network.",
+            	"C. To map IP addresses to MAC addresses for communication on a local network.",
+            	"D. To provide network security against unauthorized access."
+        	],
+        	"answer": "C",
+        	"difficulty": 90,
+            "topic":"Computer Networks"
+    	},
+    	{
+        	"question": "What is a routing table in a computer network?",
+        	"choices": [
+            	"A. A table that contains the IP addresses of all the devices on a network.",
+            	"B. A table that contains information about the paths to reach network destinations.",
+            	"C. A table that contains the MAC addresses of all the devices on a network.",
+            	"D. A table that contains the DNS mappings of domain names to IP addresses."
+        	],
+        	"answer": "B",
+        	"difficulty": 100,
+            "topic":"Computer Networks"
+    	}
+	]
+}
+
+
+
+
+{
+	"DSA": [
+    	{
+        	"question": "What is the time complexity of the quicksort algorithm in the best-case scenario?",
+        	"choices": [
+            	"A. O(n)",
+            	"B. O(n log n)",
+            	"C. O(n^2)",
+            	"D. O(log n)"
+        	],
+        	"answer": "B",
+        	"difficulty": 40,
+            "topic":"DSA"
+    	},
+    	{
+        	"question": "Explain the difference between depth-first search (DFS) and breadth-first search (BFS) algorithms.",
+        	"choices": [
+            	"A. DFS uses a stack to store vertices, while BFS uses a queue.",
+            	"B. DFS explores as far as possible along each branch before backtracking, while BFS explores the neighbor nodes first.",
+            	"C. DFS is used for finding connected components in a graph, while BFS is used for finding shortest paths.",
+            	"D. DFS always finds the shortest path in a weighted graph, while BFS does not."
+        	],
+        	"answer": "B",
+        	"difficulty": 60,
+            "topic":"DSA"
+    	},
+    	{
+        	"question": "What is dynamic programming?",
+        	"choices": [
+            	"A. A programming technique used to solve problems by breaking them down into simpler subproblems.",
+            	"B. A programming technique used to solve problems by applying the divide and conquer strategy.",
+            	"C. A programming technique used to solve problems by using recursion.",
+            	"D. A programming technique used to solve problems by using loops."
+        	],
+        	"answer": "A",
+        	"difficulty": 40,
+            "topic":"DSA"
+    	},
+    	{
+        	"question": "Explain the concept of a linked list and its advantages over arrays.",
+        	"choices": [
+            	"A. A linked list is a data structure that consists of nodes where each node contains a data field and a reference (link) to the next node in the sequence.",
+            	"B. Linked lists allow for efficient insertion and deletion of elements compared to arrays.",
+            	"C. Linked lists can easily grow or shrink in size dynamically, unlike arrays which have a fixed size.",
+            	"D. All of the above."
+        	],
+        	"answer": "D",
+        	"difficulty": 60,
+            "topic":"DSA"
+    	},
+    	{
+        	"question": "What is the difference between a stack and a queue?",
+        	"choices": [
+            	"A. Stacks use LIFO (Last In, First Out) ordering, while queues use FIFO (First In, First Out) ordering.",
+            	"B. Stacks use FIFO ordering, while queues use LIFO ordering.",
+            	"C. Stacks and queues both use LIFO ordering.",
+            	"D. Stacks and queues both use FIFO ordering."
+        	],
+        	"answer": "A",
+        	"difficulty": 20,
+            "topic":"DSA"
+    	},
+    	{
+        	"question": "Explain the concept of binary search and its time complexity.",
+        	"choices": [
+            	"A. Binary search is a search algorithm that finds the position of a target value within a sorted array.",
+            	"B. Binary search has a time complexity of O(log n), where n is the number of elements in the array.",
+            	"C. Binary search can be applied only to arrays with odd number of elements.",
+            	"D. Both A and B."
+        	],
+        	"answer": "D",
+        	"difficulty": 40,
+            "topic":"DSA"
+    	},
+    	{
+        	"question": "What is a priority queue and how is it different from a regular queue?",
+        	"choices": [
+            	"A. A priority queue is a data structure that stores elements based on their priority.",
+            	"B. In a priority queue, elements with higher priority are dequeued before elements with lower priority.",
+            	"C. A regular queue follows the FIFO (First In, First Out) principle, while a priority queue does not.",
+            	"D. All of the above."
+        	],
+        	"answer": "D",
+        	"difficulty": 60,
+            "topic":"DSA"
+    	},
+    	{
+        	"question": "Explain the concept of a binary tree and its traversal methods.",
+        	"choices": [
+            	"A. A binary tree is a tree data structure in which each node has at most two children, referred to as the left child and the right child.",
+            	"B. Binary tree traversal methods include in-order, pre-order, and post-order traversal.",
+            	"C. In in-order traversal, the left subtree is visited first, then the root, then the right subtree.",
+            	"D. All of the above."
+        	],
+        	"answer": "D",
+        	"difficulty": 60,
+            "topic":"DSA"
+    	},
+    	{
+        	"question": "What is the time complexity of inserting an element into a heap?",
+        	"choices": [
+            	"A. O(1)",
+            	"B. O(log n)",
+            	"C. O(n)",
+            	"D. O(n log n)"
+        	],
+        	"answer": "B",
+        	"difficulty": 40,
+            "topic":"DSA"
+    	},
+    	{
+        	"question": "Explain the difference between a graph and a tree.",
+        	"choices": [
+            	"A. A graph can have cycles, while a tree cannot have cycles.",
+            	"B. A tree must have a root node, while a graph does not require a root node.",
+            	"C. In a tree, there is only one path between any two nodes, while in a graph, there can be multiple paths between nodes.",
+            	"D. Trees are a special case of graphs where there are no cycles."
+        	],
+        	"answer": "D",
+        	"difficulty": 60,
+            "topic":"DSA"
+    	}
+	]
+}
+
+
+
+
+{
+	"DBMS": [
+    	{
+        	"question": "What is the purpose of normalization in database design?",
+        	"choices": [
+            	"A. To eliminate redundant data and ensure data integrity.",
+            	"B. To increase the storage capacity of the database.",
+            	"C. To speed up data retrieval operations.",
+            	"D. To minimize the number of tables in the database."
+        	],
+        	"answer": "A",
+        	"difficulty": 10,
+            "topic":"DBMS"
+    	},
+    	{
+        	"question": "What is a transaction in the context of a database?",
+        	"choices": [
+            	"A. A single SQL statement.",
+            	"B. A unit of work that is performed on a database and can include multiple SQL statements.",
+            	"C. A query that retrieves data from multiple tables.",
+            	"D. A database schema."
+        	],
+        	"answer": "B",
+        	"difficulty": 10,
+            "topic":"DBMS"
+    	},
+    	{
+        	"question": "What is the difference between a database and a database management system (DBMS)?",
+        	"choices": [
+            	"A. A database is a collection of related data, while a DBMS is a software system used to manage databases.",
+            	"B. A database is a software system used to manage databases, while a DBMS is a collection of related data.",
+            	"C. A database is used to store data, while a DBMS is used to access data.",
+            	"D. There is no difference between a database and a DBMS."
+        	],
+        	"answer": "A",
+        	"difficulty": 30,
+            "topic":"DBMS"
+    	},
+    	{
+        	"question": "What is the difference between a primary key and a foreign key?",
+        	"choices": [
+            	"A. A primary key uniquely identifies a record in a table, while a foreign key links a record in one table to a record in another table.",
+            	"B. A primary key is used to link records between tables, while a foreign key uniquely identifies a record in a table.",
+            	"C. A primary key can be null, while a foreign key cannot be null.",
+            	"D. There is no difference between a primary key and a foreign key."
+        	],
+        	"answer": "A",
+        	"difficulty": 30,
+            "topic":"DBMS"
+    	},
+    	{
+        	"question": "What is a deadlock in the context of a database?",
+        	"choices": [
+            	"A. A situation where two or more transactions are waiting indefinitely for each other to release locks.",
+            	"B. A situation where a transaction is unable to acquire the necessary locks to complete its execution.",
+            	"C. A situation where a transaction is unable to commit its changes due to a system failure.",
+            	"D. A situation where a database is unable to recover from a crash."
+        	],
+        	"answer": "A",
+        	"difficulty": 30,
+            "topic":"DBMS"
+    	},
+    	{
+        	"question": "Explain the ACID properties in the context of database transactions.",
+        	"choices": [
+            	"A. ACID stands for Atomicity, Consistency, Isolation, and Durability, which are the four properties that guarantee the reliability of database transactions.",
+            	"B. ACID stands for Association, Collection, Indexing, and Deletion, which are the four main operations in a database.",
+            	"C. ACID stands for Atomicity, Concurrency, Isolation, and Durability, which are the four properties that ensure data integrity in a database.",
+            	"D. ACID stands for Association, Consistency, Isolation, and Deletion, which are the four properties that ensure data consistency in a database."
+        	],
+        	"answer": "A",
+        	"difficulty": 60,
+            "topic":"DBMS"
+    	},
+    	{
+        	"question": "What is a view in a database?",
+        	"choices": [
+            	"A. A virtual table that is created by a query and does not store data itself.",
+            	"B. A table that is used to store temporary data.",
+            	"C. A table that is used to store aggregated data.",
+            	"D. A table that is used to store historical data."
+        	],
+        	"answer": "A",
+        	"difficulty": 60,
+            "topic":"DBMS"
+    	},
+    	{
+        	"question": "Explain the difference between a clustered index and a non-clustered index.",
+        	"choices": [
+            	"A. A clustered index physically reorganizes the data on the disk, while a non-clustered index does not.",
+            	"B. A clustered index is used for sorting data in a table, while a non-clustered index is used for filtering data in a table.",
+            	"C. A clustered index is created on a primary key, while a non-clustered index is created on a foreign key.",
+            	"D. There is no difference between a clustered index and a non-clustered index."
+        	],
+        	"answer": "A",
+        	"difficulty": 60,
+            "topic":"DBMS"
+    	},
+    	{
+            "question": "What is the purpose of the SQL SELECT statement?",
+            "choices": [
+                "A. To insert new records into a database.",
+                "B. To update existing records in a database.",
+                "C. To delete records from a database.",
+                "D. To retrieve data from a database."
+            ],
+            "answer": "D",
+            "difficulty": 60,
+            "topic":"DBMS"
+        },
+        {
+            "question": "What is a database schema?",
+            "choices": [
+                "A. A graphical representation of the structure of a database.",
+                "B. A collection of tables in a database.",
+                "C. A set of rules that defines the structure of a database.",
+                "D. A software program used to manage databases."
+            ],
+            "answer": "C",
+            "difficulty": 60,
+            "topic":"DBMS"
+        },
+        {
+            "question": "Explain the concept of data normalization in database design.",
+            "choices": [
+                "A. Data normalization is the process of organizing data in a database to minimize redundancy and dependency.",
+                "B. Data normalization is the process of storing data in multiple databases for redundancy.",
+                "C. Data normalization is the process of optimizing data storage in a database for faster retrieval.",
+                "D. Data normalization is the process of converting data into a standard format for consistency."
+            ],
+            "answer": "A",
+            "difficulty": 60,
+            "topic":"DBMS"
+        },
+        {
+            "question": "What is a database trigger?",
+            "choices": [
+                "A. A type of constraint that enforces data integrity in a database.",
+                "B. A stored procedure that is automatically executed in response to certain events on a table.",
+                "C. A mechanism for recovering data in the event of a database failure.",
+                "D. A software program used to monitor database performance."
+            ],
+            "answer": "B",
+            "difficulty": 60,
+            "topic":"DBMS"
+        }
+    ]
+}
+
+
+
+{
+	"TOC": [
+    	{
+        	"question": "What is the definition of a regular language?",
+        	"choices": [
+            	"A. A language that can be recognized by a Turing machine",
+            	"B. A language that can be generated by a context-free grammar",
+            	"C. A language that can be recognized by a finite automaton",
+            	"D. A language that can be parsed by an LL(1) parser"
+        	],
+        	"answer": "C",
+        	"difficulty": 10,
+            "topic":"TOC"
+    	},
+    	{
+        	"question": "What is the purpose of the Pumping Lemma for regular languages?",
+        	"choices": [
+            	"A. To prove that a language is not regular",
+            	"B. To generate strings in a regular language",
+            	"C. To convert a regular language into a context-free language",
+            	"D. To simplify the grammar of a regular language"
+        	],
+        	"answer": "A",
+        	"difficulty": 10,
+            "topic":"TOC"
+    	},
+    	{
+        	"question": "What is the definition of a context-free language?",
+        	"choices": [
+            	"A. A language that can be recognized by a Turing machine",
+            	"B. A language that can be generated by a regular grammar",
+            	"C. A language that can be recognized by a pushdown automaton",
+            	"D. A language that can be parsed by an LR(1) parser"
+        	],
+        	"answer": "C",
+        	"difficulty": 10,
+            "topic":"TOC"
+    	},
+    	{
+        	"question": "What is the definition of a recursively enumerable language?",
+        	"choices": [
+            	"A. A language that can be recognized by a Turing machine that halts on all inputs",
+            	"B. A language that can be generated by a context-free grammar",
+            	"C. A language that can be recognized by a Turing machine",
+            	"D. A language that can be parsed by an LL(1) parser"
+        	],
+        	"answer": "C",
+        	"difficulty": 30,
+            "topic":"TOC"
+    	},
+    	{
+        	"question": "What is the purpose of the Pumping Lemma for context-free languages?",
+        	"choices": [
+            	"A. To prove that a language is not context-free",
+            	"B. To generate strings in a context-free language",
+            	"C. To convert a context-free language into a regular language",
+            	"D. To simplify the grammar of a context-free language"
+        	],
+        	"answer": "A",
+        	"difficulty": 30,
+            "topic":"TOC"
+    	},
+    	{
+        	"question": "What is the definition of a recursively enumerable set?",
+        	"choices": [
+            	"A. A set that can be recognized by a Turing machine that halts on all inputs",
+            	"B. A set that can be generated by a context-free grammar",
+            	"C. A set that can be recognized by a Turing machine",
+            	"D. A set that can be parsed by an LL(1) parser"
+        	],
+        	"answer": "A",
+        	"difficulty": 30,
+            "topic":"TOC"
+    	},
+    	{
+        	"question": "What is the definition of a Turing decidable language?",
+        	"choices": [
+            	"A. A language that can be recognized by a Turing machine that halts on all inputs",
+            	"B. A language that can be generated by a context-free grammar",
+            	"C. A language that can be recognized by a Turing machine",
+            	"D. A language that can be parsed by an LL(1) parser"
+        	],
+        	"answer": "A",
+        	"difficulty": 60,
+            "topic":"TOC"
+    	},
+    	{
+        	"question": "What is the purpose of the Halting Problem?",
+        	"choices": [
+            	"A. To prove that a Turing machine halts on a specific input",
+            	"B. To generate halting Turing machines",
+            	"C. To show that there exists no algorithm for determining whether a Turing machine halts on a specific input",
+            	"D. To simplify the halting process of Turing machines"
+        	],
+        	"answer": "C",
+        	"difficulty": 60,
+            "topic":"TOC"
+    	},
+    	{
+        	"question": "What is the definition of a Turing decidable language?",
+        	"choices": [
+            	"A. A language that can be recognized by a Turing machine that halts on all inputs",
+            	"B. A language that can be generated by a context-free grammar",
+            	"C. A language that can be recognized by a Turing machine",
+            	"D. A language that can be parsed by an LL(1) parser"
+        	],
+        	"answer": "C",
+        	"difficulty": 60,
+            "topic":"TOC"
+    	},
+    	{
+        	"question": "What is the purpose of the Turing machine?",
+        	"choices": [
+            	"A. To parse context-free languages",
+            	"B. To simulate any algorithmic process",
+            	"C. To generate regular languages",
+            	"D. To recognize recursively enumerable languages"
+        	],
+        	"answer": "B",
+        	"difficulty": 60,
+            "topic":"TOC"
+    	}
+	]
+}
+
+
+
+
+
+
+
+
+app.post('/feedQuestions', async(req, res) => {
+
+    const {questions} = req.body
+    try {
+        if(questions.length < 3){
+            res.status(400).send('please provide atleast 3 questions')
+        }
+
+        const stringQuestions = questions.map(question => {
+            return {pageContent:JSON.stringify(question)}
+        })
+
+        const embeddings = new OpenAIEmbeddings({ apiKey: process.env.OPEN_AI_API_KEY });
+
+        const pinecone = new Pinecone({
+            // environment: "gcp-starter",
+            apiKey: process.env.PINECONE_API_KEY,
+        })
+
+        const index = pinecone.Index("demo")
+
+        const questionEmbeddings = []
+
+        for(let i=0;i<questions.length;i+=1){
+            const questionEmb = await ret(questions[i],embeddings)
+            questionEmbeddings.push(questionEmb)
+        }
+
+        console.log(questionEmbeddings)
+
+        await index.namespace('be_project').upsert(questionEmbeddings)
+
+        return res.send('questions added to pinecone')
+    } catch (error) {
+        console.log(error)
+        res.status(500).send('Internal server error')
+    }
+})
+
+
+const ret = async(que,embeddings) => {
+
+    try {
+        let cr;
+        let ir;
+        if (que.difficulty < 25) {
+            cr=10
+            ir=2
+        }
+        else if (25<=que.difficulty<60){
+            cr=10
+            ir=11
+        }
+        else{
+            cr=10
+            ir=17
+        }        
+
+        const queobj = {
+            id: Date.now().toString(),
+            values: await embeddings.embedQuery(JSON.stringify(que)),
+            metadata:{
+                ...que,
+                correctResponse:cr,
+                incorrectResponses:ir,
+                averageTime:100
+            }
+        }
+        return queobj
+    } catch (error) {
+        console.log(error)
+        res.status(500).send('Internal server error')
+    }
+}

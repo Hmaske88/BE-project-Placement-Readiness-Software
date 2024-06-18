@@ -1,0 +1,18 @@
+@import "../../styles/variables.module.scss";
+
+.subHeading{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    h1{
+        color:var(--text-dark-heading);
+        font-size: 1em;
+        margin: 0 0.8em;
+        white-space: nowrap;
+        span{
+            font-family: $font-raleway;
+            margin-left:0.8em;
+        }
+    }
+}

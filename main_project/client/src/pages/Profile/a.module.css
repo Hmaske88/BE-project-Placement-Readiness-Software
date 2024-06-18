@@ -1,0 +1,51 @@
+/* Profile.module.css */
+
+.profileContainer {
+    max-width: 600px;
+    margin: 5rem auto;
+    padding: 20px;
+    background-color: #2c2f33;
+    /* Update background color to dark gray/black */
+    color: #ffffff;
+    /* Update text color to white */
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.profileHeader {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.profileHeader h2 {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.profileInfo {
+    margin-top: 10px;
+}
+
+.profileInfo p {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+/* Update the styles for the logout button */
+.profileHeader button {
+    padding: 8px 16px;
+    background-color: #7289da;
+    /* Discord's primary color */
+    color: #ffffff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 600;
+    transition: background-color 0.2s;
+}
+
+.profileHeader button:hover {
+    background-color: #677bc4;
+    /* Slightly darken the color on hover */
+}

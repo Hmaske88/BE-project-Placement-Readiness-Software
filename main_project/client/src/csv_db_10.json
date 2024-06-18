@@ -1,0 +1,115 @@
+[
+    {"type":"header","version":"5.2.0","comment":"Export to JSON plugin for PHPMyAdmin"},
+    {"type":"database","name":"csv_db 10"},
+    {
+        "type":"table",
+        "name":"aptitude",
+        "database":"csv_db 10",
+        "data":[
+            {"sno":"1","question":"A train running at the speed of 60 km\/hr crosses a pole in 9 seconds. What is the length of the train?","a":"120 metres","b":"180 metres","c":"324 metres","d":"150 metres","answer":"150 metres"},
+            {"sno":"2","question":"A train 125 m long passes a man, running at 5 km\/hr in the same direction in which the train is going, in 10 seconds. The speed of the train is:","a":"45 km\/hr","b":"50 km\/hr","c":"54 km\/hr","d":"55 km\/hr","answer":"50 km\/hr"},
+            {"sno":"3","question":"The length of the bridge, which a train 130 metres long and travelling at 45 km\/hr can cross in 30 seconds, is:","a":"200 m","b":"225 m","c":"245 m","d":"250 m","answer":"245 m"},
+            {"sno":"4","question":"Two trains running in opposite directions cross a man standing on the platform in 27 seconds and 17 seconds respectively and they cross each other in 23 seconds. The ratio of their speeds is:","a":"1:03","b":"3:02","c":"3:04","d":"None of these","answer":"3:02"},
+            {"sno":"5","question":"A train passes a station platform in 36 seconds and a man standing on the platform in 20 seconds. If the speed of the train is 54 km\/hr, what is the length of the platform?","a":"120 m","b":"240 m","c":"300 m","d":"None of these","answer":"240 m"},
+            {"sno":"6","question":"A train 240 m long passes a pole in 24 seconds. How long will it take to pass a platform 650 m long?","a":" 65 sec","b":"89 sec","c":"100 sec","d":"150 sec","answer":"89 sec"},
+            {"sno":"7","question":"Two trains of equal length are running on parallel lines in the same direction at 46 km\/hr and 36 km\/hr. The faster train passes the slower train in 36 seconds. The length of each train is:","a":"50 m","b":"72 m","c":"80 m","d":"82 m","answer":"50 m"},
+            {"sno":"8","question":"A train 360 m long is running at a speed of 45 km\/hr. In what time will it pass a bridge 140 m long?","a":"40 sec","b":"42 sec","c":"45 sec","d":"48 sec","answer":"40 sec"},
+            {"sno":"9","question":"A person crosses a 600 m long street in 5 minutes. What is his speed in km per hour?","a":"3.6","b":"7.2","c":"8.4","d":"10","answer":"7.2"},
+            {"sno":"10","question":"An aeroplane covers a certain distance at a speed of 240 kmph in 5 hours. To cover the same distance in 5\/3 hours, it must travel at a speed of:","a":"300 kmph","b":"360 kmph","c":"600 kmph","d":"720 kmph","answer":"720 kmph"},
+            {"sno":"11","question":"If a person walks at 14 km\/hr instead of 10 km\/hr, he would have walked 20 km more. The actual distance travelled by him is:","a":"50 km","b":"56 km","c":"70 km","d":"80 km","answer":"50 km"},
+            {"sno":"12","question":"Excluding stoppages, the speed of a bus is 54 kmph and including stoppages, it is 45 kmph. For how many minutes does the bus stop per hour?","a":"9","b":"10","c":"12","d":"20","answer":"10"},
+            {"sno":"13","question":"In a flight of 600 km, an aircraft was slowed down due to bad weather. Its average speed for the trip was reduced by 200 km\/hr and the time of flight increased by 30 minutes. The duration of the flight is:","a":"1 hour","b":"2 hour","c":"3 hour","d":"4 hour","answer":"1 hour"},
+            {"sno":"14","question":"A man complete a journey in 10 hours. He travels first half of the journey at the rate of 21 km\/hr and second half at the rate of 24 km\/hr. Find the total journey in km.","a":"220 km","b":"224 km","c":"230 km","d":"234 km","answer":"224 km"},
+            {"sno":"15","question":"The ratio between the speeds of two trains is 7 : 8. If the second train runs 400 km in 4 hours, then the speed of the first train is:","a":"70 km\/hr","b":"75 km\/hr","c":"84 km\/hr","d":"87.5 km\/hr","answer":"87.5 km\/hr"},
+            {"sno":"16","question":"Two ships are sailing in the sea on the two sides of a lighthouse. The angle of elevation of the top of the lighthouse is observed from the ships are 30? and 45? respectively. If the lighthouse is 100 m high, the distance between the two ships is:","a":"173 m","b":"200 m","c":"273 m","d":"300 m","answer":"273 m"},
+            {"sno":"17","question":"A man standing at a point P is watching the top of a tower, which makes an angle of elevation of 30? with the man's eye. The man walks some distance towards the tower to watch its top and the angle of the elevation becomes 60?. What is the distance between the base of the tower and the point P?","a":"8 units","b":"12 units","c":"Data inadequate","d":"None of these","answer":"Data inadequate"},
+            {"sno":"18","question":"The angle of elevation of a ladder leaning against a wall is 60? and the foot of the ladder is 4.6 m away from the wall. The length of the ladder is:","a":"2.3 m","b":"4.6 m","c":"7.8 m","d":"9.2 m","answer":"9.2 m"},
+            {"sno":"19","question":"An observer 1.6 m tall is 203 away from a tower. The angle of elevation from his eye to the top of the tower is 30?. The height of the tower is:","a":"21.6 m","b":"23.2 m","c":"24.72 m","d":"None of these","answer":"21.6 m"},
+            {"sno":"20","question":"From a point P on a level ground, the angle of elevation of the top tower is 30?. If the tower is 100 m high, the distance of point P from the foot of the tower is:","a":"149 m","b":"156 m","c":"173 m","d":"200 m","answer":"173 m"},
+            {"sno":"21","question":"A, B and C can do a piece of work in 20, 30 and 60 days respectively. In how many days can A do the work if he is assisted by B and C on every third day?","a":"12 days","b":"15 days","c":"16 days","d":"18 days","answer":"15 days"},
+            {"sno":"22","question":"A alone can do a piece of work in 6 days and B alone in 8 days. A and B undertook to do it for Rs. 3200. With the help of C, they completed the work in 3 days. How much is to be paid to C?","a":"Rs. 375","b":"Rs. 400","c":"Rs. 600","d":"Rs. 800","answer":"Rs. 400"},
+            {"sno":"23","question":"If 6 men and 8 boys can do a piece of work in 10 days while 26 men and 48 boys can do the same in 2 days, the time taken by 15 men and 20 boys in doing the same type of work will be:","a":"4 days","b":"5 days","c":"6 days","d":"7 days","answer":"4 days"},
+            {"sno":"24","question":"A does 80% of a work in 20 days. He then calls in B and they together finish the remaining work in 3 days. How long B alone would take to do the whole work?","a":"23 days","b":"37 days","c":"37.5 days","d":"40 days","answer":"37.5 days"},
+            {"sno":"25","question":"A machine P can print one lakh books in 8 hours, machine Q can print the same number of books in 10 hours while machine R can print them in 12 hours. All the machines are started at 9 A.M. while machine P is closed at 11 A.M. and the remaining two machines complete work. Approximately at what time will the work (to print one lakh books) be finished ?","a":"11:30 A.M.","b":"12 noon","c":"12:30 P.M.","d":"1:00 P.M.","answer":"1:00 P.M."},
+            {"sno":"26","question":"A can finish a work in 18 days and B can do the same work in 15 days. B worked for 10 days and left the job. In how many days, A alone can finish the remaining work?","a":"5","b":"5.5","c":"6","d":"8","answer":"6"},
+            {"sno":"27","question":"4 men and 6 women can complete a work in 8 days, while 3 men and 7 women can complete it in 10 days. In how many days will 10 women complete it?","a":"35","b":"40","c":"45","d":"50","answer":"40"},
+            {"sno":"28","question":"A sum of money at simple interest amounts to Rs. 815 in 3 years and to Rs. 854 in 4 years. The sum is:","a":"Rs. 650","b":"Rs. 690","c":"Rs. 698","d":"Rs. 700","answer":"Rs. 698"},
+            {"sno":"29","question":"Mr. Thomas invested an amount of Rs. 13,900 divided in two different schemes A and B at the simple interest rate of 14% p.a. and 11% p.a. respectively. If the total amount of simple interest earned in 2 years be Rs. 3508, what was the amount invested in Scheme B?","a":"Rs. 6400","b":"Rs. 6500","c":"Rs. 7200","d":"Rs. 7500","answer":"Rs. 6400"},
+            {"sno":"30","question":"A sum fetched a total simple interest of Rs. 4016.25 at the rate of 9 p.c.p.a. in 5 years. What is the sum?","a":"Rs. 4462.50","b":"Rs. 8032.50","c":"Rs. 8900","d":"Rs. 8925","answer":"Rs. 8925"},
+            {"sno":"31","question":"A bank offers 5% compound interest calculated on half-yearly basis. A customer deposits Rs. 1600 each on 1st?January and 1st?July of a year. At the end of the year, the amount he would have gained by way of interest is:","a":"Rs. 120","b":"Rs. 121","c":"Rs. 122","d":"Rs. 123","answer":"Rs. 121"},
+            {"sno":"32","question":"The difference between simple and compound interests compounded annually on a certain sum of money for 2 years at 4% per annum is Re. 1. The sum (in Rs.) is:","a":"625","b":"630","c":"640","d":"650","answer":"625"},
+            {"sno":"33","question":"There is 60% increase in an amount in 6 years at simple interest. What will be the compound interest of Rs. 12,000 after 3 years at the same rate?","a":"Rs. 2160","b":"Rs. 3120","c":"Rs. 3972","d":"Rs. 6240","answer":"Rs. 3972"},
+            {"sno":"34","question":"At what rate of compound interest per annum will a sum of Rs. 1200 become Rs. 1348.32 in 2 years?","a":"7","b":"6","c":"7.5","d":"6.5","answer":"6"},
+            {"sno":"35","question":"The cost price of 20 articles is the same as the selling price of?x?articles. If the profit is 25%, then the value of?x?is:","a":"15","b":"16","c":"18","d":"25","answer":"16"},
+            {"sno":"36","question":"In a certain store, the profit is 320% of the cost. If the cost increases by 25% but the selling price remains constant, approximately what percentage of the selling price is the profit?","a":"30","b":"70","c":"100","d":"250","answer":"70"},
+            {"sno":"37","question":"A vendor bought toffees at 6 for a rupee. How many for a rupee must he sell to gain 20%?","a":"3","b":"4","c":"6","d":"5","answer":"5"},
+            {"sno":"38","question":"The percentage profit earned by selling an article for Rs. 1920 is equal to the percentage loss incurred by selling the same article for Rs. 1280. At what price should the article be sold to make 25% profit?","a":"Rs. 2000","b":"Rs. 2200","c":"Rs. 2400","d":"None of these","answer":"Rs. 2000"},
+            {"sno":"39","question":"A and B invest in a business in the ratio 3 : 2. If 5% of the total profit goes to charity and A's share is Rs. 855, the total profit is:","a":"Rs. 1425","b":"Rs. 1500","c":"Rs. 1537.50","d":"Rs. 1576","answer":"Rs. 1500"},
+            {"sno":"40","question":"A, B, C subscribe Rs. 50,000 for a business. A subscribes Rs. 4000 more than B and B Rs. 5000 more than C. Out of a total profit of Rs. 35,000, A receives:","a":"Rs. 8400","b":"Rs. 11900","c":"Rs. 13600","d":"Rs. 14700","answer":"Rs. 14700"},
+            {"sno":"41","question":"A starts business with Rs. 3500 and after 5 months, B joins with A as his partner. After a year, the profit is divided in the ratio 2 : 3. What is B's contribution in the capital?","a":"Rs. 7500","b":"Rs. 8000","c":"Rs. 8500","d":"Rs. 9000","answer":"Rs. 9000"},
+            {"sno":"42","question":"Two students appeared at an examination. One of them secured 9 marks more than the other and his marks was 56% of the sum of their marks. The marks obtained by them are:","a":"39, 30","b":"41, 32","c":"42, 33","d":"43, 34","answer":"42, 33"},
+            {"sno":"43","question":"A fruit seller had some apples. He sells 40% apples and still has 420 apples. Originally, he had:","a":"588 apples","b":"600 apples","c":"672 apples","d":"700 apples","answer":"700 apples"},
+            {"sno":"44","question":"What percentage of numbers from 1 to 70 have 1 or 9 in the unit's digit?","a":"1","b":"14","c":"20","d":"21","answer":"20"},
+            {"sno":"45","question":"If 20% of?a?=?b, then?b% of 20 is the same as:","a":"4% of?a","b":"5% of?a","c":"20% of?a","d":"None of these","answer":"4% of?a"},
+            {"sno":"46","question":"In a certain school, 20% of students are below 8 years of age. The number of students above 8 years of age is??of the number of students of 8 years of age which is 48. What is the total number of students in the school?","a":"72","b":"80","c":"100","d":"120","answer":"100"},
+            {"sno":"47","question":"From a group of 7 men and 6 women, five persons are to be selected to form a committee so that at least 3 men are there on the committee. In how many ways can it be done?","a":"564","b":"645","c":"735","d":"756","answer":"756"},
+            {"sno":"48","question":"In how many different ways can the letters of the word 'CORPORATION' be arranged so that the vowels always come together?","a":"810","b":"1440","c":"2880","d":"50400","answer":"50400"},
+            {"sno":"49","question":"A sum of money is to be distributed among A, B, C, D in the proportion of 5 : 2 : 4 : 3. If C gets Rs. 1000 more than D, what is B's share?","a":"Rs. 500","b":"Rs. 1500","c":"Rs. 2000","d":"None of these","answer":"Rs. 2000"},
+            {"sno":"50","question":"In a mixture 60 litres, the ratio of milk and water 2 : 1. If this ratio is to be 1 : 2, then the quantity of water to be further added is:","a":"20 litres","b":"30 litres","c":"40 litres","d":"60 litres","answer":"60 litres"}
+        ]
+    },
+    
+    {
+        "type":"table",
+        "name":"submissions_apti",
+        "database":"csv_db 10",
+        "data":
+        [
+            {"sno":"1","date":"2024-02-11 19:34:02","score":"22"},
+            {"sno":"2","date":"2024-02-11 19:47:27","score":"10"},
+            {"sno":"3","date":"2024-02-11 22:31:44","score":"24"},
+            {"sno":"4","date":"2024-03-14 17:48:14","score":"6"}
+        ]
+    },
+    
+    {
+        "type":"table",
+        "name":"submissions_tech",
+        "database":"csv_db 10",
+        "data":
+        [
+            {"sno":"1","date":"2024-02-11 22:44:17","score":"25"},
+            {"sno":"2","date":"2024-02-11 22:46:02","score":"80"},
+            {"sno":"3","date":"2024-02-11 22:47:18","score":"50"}
+        ]
+    },
+    
+    {
+        "type":"table",
+        "name":"technical",
+        "database":"csv_db 10",
+        "data":[
+            {"sno":"1","question":"What is the term used for describing the judgmental or commonsense part of problem solving?","a":"Heuristic","b":"Critical","c":"Value based","d":"Analytical","answer":"Heuristic"},
+            {"sno":"2","question":"Which kind of planning consists of successive representations of different levels of a plan?","a":"hierarchical planning","b":"non-hierarchical planning","c":"All of the above","d":"project planning","answer":"hierarchical planning"},
+            {"sno":"3","question":"What could cause a fixed disk error.","a":"No-CD installed","b":"bad ram","c":"slow processor","d":"Incorrect CMOS settings","answer":"Incorrect CMOS settings"},
+            {"sno":"4","question":"A hard disk is divided into tracks which are further subdivided into:","a":"clusters","b":"sectors","c":"vectors","d":"heads","answer":"sectors"},
+            {"sno":"5","question":"Which of the following is not a logical data-base structure?","a":"tree","b":"relational","c":"network","d":"chain","answer":"chain"},
+            {"sno":"6","question":"Each of data files has a _____ that describe the way the data is stored in the file.","a":"File structure","b":"Records","c":"Fields","d":"Database","answer":"File structure"},
+            {"sno":"7","question":"What is the language used by most of the DBMSs for helping their users to access data?","a":"High level language","b":"Query language","c":"SQL","d":"4GL","answer":"Query language"},
+            {"sno":"8","question":"In SQL, which command is used to make permanent changes made by statements issue since the beginning of a transaction?","a":"ZIP","b":"PACK","c":"COMMIT","d":"SAVE","answer":"COMMIT"},
+            {"sno":"9","question":"In SQL, which command(s) is(are) used to enable\/disable a database trigger?","a":"MODIFY USER","b":"CHANGE USER","c":"ALTER TRIGGER","d":"All of the above","answer":"ALTER TRIGGER"},
+            {"sno":"10","question":"Which command is used to remove an index from the database in SQL?","a":"DELETE INDEX","b":"DROP INDEX","c":"REMOVE INDEX","d":"ROLL BACK INDEX","answer":"DROP INDEX"},
+            {"sno":"11","question":"The part of machine level instruction, which tells the central processor what has to be done, is","a":"Operation code","b":"Address","c":"Locator","d":"Flip-Flop","answer":"Operation code"},
+            {"sno":"12","question":"To avoid the race condition, the number of processes that may be simultaneously inside their critical section is","a":"8","b":"1","c":"16","d":"0","answer":"1"},
+            {"sno":"13","question":"Process is","a":"program in High level language kept on disk","b":"contents of main memory","c":"a program in execution","d":"a job in secondary memory","answer":"a program in execution"},
+            {"sno":"14","question":"What command is used to count the total number of lines, words, and characters contained in a file?","a":"countw","b":"wcount","c":"wc","d":"count p","answer":"wc"},
+            {"sno":"15","question":"What command is used to remove files?","a":"dm","b":"rm","c":"delete","d":"erase","answer":"rm"},
+            {"sno":"16","question":"What command is used to remove the directory?","a":"rdir","b":"remove","c":"rd","d":"rmdir","answer":"rmdir"},
+            {"sno":"17","question":"What TCP\/IP protocol is used for remote terminal connection service?","a":"UDP","b":"RARP","c":"FTP","d":"TELNET","answer":"TELNET"},
+            {"sno":"18","question":"Frames from one LAN can be transmitted to another LAN via the device","a":"Router","b":"Bridge","c":"Repeater","d":"Modem","answer":"Bridge"},
+            {"sno":"19","question":"You have a class A network address 10.0.0.0 with 40 subnets, but are required to add 60 new subnets very soon. You would like to still allow for the largest possible number of host IDs per subnet. Which subnet mask should you assign?","a":"255.240.0.0","b":"255.248.0.0","c":"255.252.0.0","d":"255.254.0.0","answer":"255.254.0.0"},
+            {"sno":"20","question":"What is the default subnet mask for a class C network?","a":"127.0.0.1","b":"255.0.0.0","c":"255.255.0.0","d":"255.255.255.0","answer":"255.255.255.0"}
+        ]
+    }
+    ]
+    

@@ -1,0 +1,39 @@
+.footer{
+    background-color: var(--background-dark-fade);
+    padding-top: 5em;
+    padding-bottom: 5em;
+    align-items: center;
+
+   .footerMenu{
+        display: flex;
+        margin-left: 10em;
+        padding:auto;
+        
+   }
+    .completeMenu{
+        display: flex;
+        justify-content: space-around;
+        padding-right: 2em;
+        gap: 8em;
+        text-align: left; 
+        .menu{
+            div{
+                padding: 0.2em 0;
+                color: var(--text-dark-fade);
+            }
+        }
+        .ContactUs{
+            div{
+                padding: 0.2em 0;
+                color: var(--text-dark-fade);
+            }            
+        }
+
+    }
+    .aboutDevelup{
+        padding-right: 35em;
+        padding-left: 5em;
+        padding-top: 2em;
+        padding-bottom: 8em;
+    }
+}

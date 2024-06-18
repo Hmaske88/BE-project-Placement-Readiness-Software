@@ -1,0 +1,26 @@
+@import '../../styles//variables.scss';
+
+.forgetPassword{
+    margin: 8em auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    .backbtn{
+        cursor: pointer;
+    }
+    .forgetPasswordFields{
+        margin: 3em ;
+        h1{
+            font-family: var($font-raleway);
+            font-weight: var($semiBoldTextWeight);
+            font-size: 55px;
+        }
+        .inputBox{
+            width: 700px;
+        }
+    }
+    .sendLinkBtn{
+        font-weight: 700;
+        font-family: var($font-raleway);
+    }
+}
